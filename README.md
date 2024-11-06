@@ -1,7 +1,7 @@
 # SADEW-MD-PAIRING
 
 
-![Project Logo](https://imgur.com/a/fZuD1hh) <!-- Optional: Add a logo or image -->
+![Project Logo](https://i.imgur.com/8O7nhzd.jpeg) <!-- Optional: Add a logo or image -->
 
 ## This allows you to generate Session ID for the SADEW-MD WA Bot
 
