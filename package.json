@@ -1,0 +1,18 @@
+{
+  "name": "whatsapp-pairing-generator",
+  "version": "1.0.0",
+  "description": "A simple website to generate and display WhatsApp pairing codes.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Sadew Dewmika",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
